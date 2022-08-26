@@ -2,7 +2,7 @@
 
 - 📚 PUC Minas - Computer Science ...
 - 📫 marceloestevesreis@gmail.com
-- ❤ Programmer
+- 👩‍💻 Developer
 
 <div align="center">
   <a href="https://github.com/MarceloReisxz">
