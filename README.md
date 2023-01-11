@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/MarceloReisxz">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloReisxz&show_icons=true&theme=transparent)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloReisxz&show_icons=true&theme=transparent"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloReisxz&layout=compact&langs_count=7&theme=dark&count_private=false"/>
 </div>
   
