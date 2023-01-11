@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/MarceloReisxz">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloReisxz&layout=compact)]
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloReisxz" />
 </div>
   
   <div style="display: inline_block"><br>
