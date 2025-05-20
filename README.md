@@ -2,7 +2,7 @@
 
 - 📚 PUC Minas - Computer Science ...
 - 📫 marceloestevesreis@gmail.com
-- 👩‍💻 FullStack Developer
+- 👩‍💻 Full Stack | Machine Learning | Data Science
 
 <div align="center">
   <a href="https://github.com/MarceloReisxz">
