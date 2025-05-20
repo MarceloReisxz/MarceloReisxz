@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/MarceloReisxz">
-</div> https://github.com/devicons/devicon/blob/master/icons/angular/angular-plain.svg
+</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
